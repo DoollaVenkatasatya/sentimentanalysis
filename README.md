@@ -33,5 +33,3 @@ Here's a breakdown of what our code does:
    - We load the saved model and create a Gradio interface to interactively test the model's toxicity check function using user input.
 
 Overall, our code seems to be well-structured, and it follows the standard procedure for building, training, and evaluating a deep learning model for multi-label text classification. Gradio interface provides a simple way for users to input text and get toxicity predictions from our model.
-
-If you have any specific questions or need further assistance, feel free to ask!
